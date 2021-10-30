@@ -1,0 +1,33 @@
+{
+  "github-org": "gitvern",
+  "github-org-url": "https://github.com/gitvern",
+  "dao-repo-name": "dao",
+  "max-active-approvals": 5,
+  "weight-payouts": {
+    "0":      "5000000000000000",
+    "1":     "10000000000000000",
+    "2":     "20000000000000000",
+    "3":     "30000000000000000",
+    "5":     "50000000000000000",
+    "8":     "80000000000000000",
+    "13":   "130000000000000000",
+    "20":   "200000000000000000",
+    "40":   "400000000000000000",
+    "100": "1000000000000000000"
+  },
+  "network": {
+    "name": "Ethereum Mainnet",
+    "rpc-url": "https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+    "chain-id": 1,
+    "symbol": "ETH",
+    "explorer-url": "https://etherscan.io"
+  },
+  "token": {
+    "contract": "0x",
+    "symbol": "XYZ",
+    "decimals": 18
+  },
+  "treasury": {
+    "contract": "0x"
+  }
+}
