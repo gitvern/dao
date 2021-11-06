@@ -1,7 +1,7 @@
 {
-  "github-org": "gitvern",
-  "github-org-url": "https://github.com/gitvern",
-  "dao-repo-name": "dao",
+  "github-project-type": "org",
+  "github-owner": "gitvern",
+  "github-app-installation-id": "20534274",
   "max-active-approvals": 5,
   "weight-payouts": {
     "0":      "5000000000000000",
@@ -16,18 +16,17 @@
     "100": "1000000000000000000"
   },
   "network": {
-    "name": "Ethereum Mainnet",
-    "rpc-url": "https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
-    "chain-id": 1,
+    "name": "Rinkeby Testnet",
+    "chain-id": 4,
     "symbol": "ETH",
-    "explorer-url": "https://etherscan.io"
+    "explorer-url": "https://rinkeby.etherscan.io"
   },
   "token": {
-    "contract": "0x",
-    "symbol": "XYZ",
+    "contract": "0x0xC74496BcdCFdf69564d9f810832F7553Ff22696d",
+    "symbol": "DAO",
     "decimals": 18
   },
   "treasury": {
-    "contract": "0x"
+    "contract": "0x0xaF4F12d94fb34220f15b72f41b2c6f74f8F836fd"
   }
 }
