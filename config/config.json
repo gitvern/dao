@@ -23,11 +23,11 @@
     "explorer-url": "https://rinkeby.etherscan.io"
   },
   "token": {
-    "contract": "0x0xC74496BcdCFdf69564d9f810832F7553Ff22696d",
+    "contract": "0xC74496BcdCFdf69564d9f810832F7553Ff22696d",
     "symbol": "DAO",
     "decimals": 18
   },
   "treasury": {
-    "contract": "0x0xaF4F12d94fb34220f15b72f41b2c6f74f8F836fd"
+    "contract": "0xaF4F12d94fb34220f15b72f41b2c6f74f8F836fd"
   }
 }
