@@ -1,9 +1,11 @@
 {
-  "github-project-type": "org",
-  "github-project-number": "3",
-  "github-owner": "gitvern",
-  "github-app-installation-id": "20534274",
-  "github-label-proposal": "DAO",
+  "github": {
+    "project-type": "org",
+    "project-number": "3",
+    "owner": "gitvern",
+    "app-installation-id": "20534274",
+    "proposals-label": "DAO"
+  },
   "weight-payouts": {
     "0":      "5000000000000000",
     "1":     "10000000000000000",
