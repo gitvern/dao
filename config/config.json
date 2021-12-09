@@ -34,6 +34,8 @@
   },
   "snapshot": {
     "space": "test1.shot.eth",
-    "hub": "https://hub.snapshot.org"
+    "hub": "https://hub.snapshot.org",
+    "start": 60,
+    "duration": 1800
   }
 }
