@@ -3,7 +3,7 @@
   "github-project-number": "3",
   "github-owner": "gitvern",
   "github-app-installation-id": "20534274",
-  "max-active-approvals": 5,
+  "github-label-proposal": "DAO",
   "weight-payouts": {
     "0":      "5000000000000000",
     "1":     "10000000000000000",
@@ -29,5 +29,9 @@
   },
   "treasury": {
     "contract": "0xaF4F12d94fb34220f15b72f41b2c6f74f8F836fd"
+  },
+  "snapshot": {
+    "space": "test1.shot.eth",
+    "hub": "https://hub.snapshot.org"
   }
 }
