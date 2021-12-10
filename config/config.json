@@ -36,10 +36,17 @@
     "space": "test1.shot.eth",
     "hub": "https://hub.snapshot.org",
     "ipfs": "https://ipfs.infura.io",
-    "start": 60,
-    "duration": 1800,
-    "block": -50,
-    "type": "single-choice",
-    "choices": [ "High priority", "Low priority" ]
+    "proposals": [
+      {
+        "label": "DAO",
+        "voting": {
+          "start": 60,
+          "duration": 1800,
+          "block": -50,
+          "type": "single-choice",
+          "choices": [ "High priority", "Low priority" ]
+        }
+      }
+    ]
   }
 }
