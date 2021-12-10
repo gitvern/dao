@@ -45,7 +45,8 @@
           "block": -50,
           "type": "single-choice",
           "choices": [ "High priority", "Low priority" ]
-        }
+        },
+        "remove-after": 60
       }
     ]
   }
