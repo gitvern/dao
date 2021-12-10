@@ -37,6 +37,8 @@
     "hub": "https://hub.snapshot.org",
     "start": 60,
     "duration": 1800,
-    "block": -50
+    "block": -50,
+    "type": "single-choice",
+    "choices": [ "High priority", "Low priority" ]
   }
 }
