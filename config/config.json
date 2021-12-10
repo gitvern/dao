@@ -38,6 +38,7 @@
     "proposals": [
       {
         "label": "DAO",
+        "cancelable": true,
         "voting": {
           "start": 60,
           "duration": 1800,
