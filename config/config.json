@@ -46,8 +46,8 @@
           "type": "single-choice",
           "choices": [ "High priority", "Low priority" ]
         },
-        "remove-after": 60
       }
-    ]
+    ],
+    "remove-after": 60
   }
 }
