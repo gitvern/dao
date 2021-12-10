@@ -45,6 +45,7 @@
           "type": "single-choice",
           "choices": [ "High priority", "Low priority" ]
         },
+        "github-field": "Approvals",
         "remove-after": 60
       }
     ]
