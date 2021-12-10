@@ -2,7 +2,8 @@
   "github": {
     "project-type": "org",
     "project-number": "3",
-    "owner": "gitvern"
+    "owner": "gitvern",
+    "field": "Approvals"
   },
   "weight-payouts": {
     "0":      "5000000000000000",
@@ -45,7 +46,6 @@
           "type": "single-choice",
           "choices": [ "High priority", "Low priority" ]
         },
-        "github-field": "Approvals",
         "remove-after": 60
       }
     ]
